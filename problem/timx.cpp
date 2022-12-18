@@ -2,9 +2,9 @@
 #include <conio.h>
 #include <math.h>
 
-int CT[10]; // 10 ca the
+int CT[10]; // ca the
 int n=4;
-int GTTN[10]; // gia tri thich nghi cua 10 ca the
+int GTTN[10]; // gia tri thich nghi cua ca the
 int kq;
 int Max1,Max2;
 int Max1moi=0;
