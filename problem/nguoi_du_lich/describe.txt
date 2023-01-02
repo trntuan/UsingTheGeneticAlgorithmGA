@@ -1,0 +1,27 @@
+- data1 : 
+ + link: https://hayashikita.wordpress.com/2012/03/27/dường-di-của-người-giao-hang-tsp/
+ + node: 6
+
+
+- data 2:
+ + link:https://www.math.uwaterloo.ca/tsp/world/countries.html
+ + name: Western Sahara - 29 Cities 
+ + Optimal Tour: https://www.math.uwaterloo.ca/tsp/world/witour.html (It has length 27603)
+
+
+- data 3:
+ + link:https://www.math.uwaterloo.ca/tsp/world/countries.html#WI
+ + name: Djibouti - 38 Cities
+ + Optimal Tour: https://www.math.uwaterloo.ca/tsp/world/djtour.html (It has length 6656)
+
+
+- data 4:
+ + link:https://www.math.uwaterloo.ca/tsp/world/countries.html#QA
+ + name: Qatar - 194 Cities
+ + Optimal Tour: https://www.math.uwaterloo.ca/tsp/world/qatour.html (It has length 9352)
+
+
+- data 5:
+ + link:https://www.math.uwaterloo.ca/tsp/world/countries.html#QA
+ + name: Oman - 1,979 Cities
+ + Optimal Tour: https://www.math.uwaterloo.ca/tsp/world/mutour.html (It has length 86891)
